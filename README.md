@@ -5,14 +5,15 @@ Portfolio: https://mehedihtml.com 👈
 What you will get:👌
 1. HTML5 & CSS3.
 2. jQuery & jQuery slider.
-3. Bootstrap 5x.
-4. Re-design.
-5. Themeforest standard coding.
-6. Cross-Browser Compatible! (Firefox, IE9+, Chrome, Safari, Opera).
-7. 100% Responsive mobile friendly.
-8. All code is HAND CODED.
-9. SEO friendly.
-10. ADA contrast errors free.
+3. Vue js 
+4. Bootstrap 5x.
+5. Re-design.
+6. Themeforest standard coding.
+7. Cross-Browser Compatible! (Firefox, IE9+, Chrome, Safari, Opera).
+8. 100% Responsive mobile friendly.
+9. All code is HAND CODED.
+10. SEO friendly.
+11. ADA contrast errors free.
 
 Have a good day.😍
 Mehedi Hasan
