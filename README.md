@@ -4,7 +4,7 @@ Portfolio: https://mehedihtml.com 👈
 
 What you will get:👌
 1. HTML5 & CSS3.
-2. jQuery & jQuery slider.
+2. JavaScript & jQuery.
 3. Vue js 
 4. Bootstrap 5x.
 5. Re-design.
